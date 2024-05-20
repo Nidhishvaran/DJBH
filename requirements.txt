@@ -24,3 +24,6 @@ yaswfp==0.9.3
 zc.lockfile==2.0
 zipp==1.0.0
 zombie-imp==0.0.2
+flask
+flask_cors
+pymysql
